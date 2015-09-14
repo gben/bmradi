@@ -1,0 +1,52 @@
+@media (min-width: 1200px) {
+    html>body {
+        font-size: 19px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    html>body {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 767px) {
+    html>body {
+        font-size: 12px;
+    }
+    
+    #home_content {
+    text-align:center;
+    position:fixed;
+    top: 2em;
+    left: 0;
+    margin: 0;
+    height:auto;
+    width:auto;
+    }
+    
+    #contact {
+    text-align:center;
+    }
+    
+    #about {
+    margin-bottom:4.568em;
+    }
+
+
+}
+
+@media (max-width: 480px) {
+    html>body {
+        font-size: 10px;
+    }
+    p, a {
+        font-size: 1.3em;
+    }
+    #logo_header {margin-bottom:2em }
+
+    #counter_box {
+        margin-bottom:2em;
+    }
+
+}

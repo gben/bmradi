@@ -1,0 +1,183 @@
+html {padding: 0px;}                                                                                                                                                                                                                                                                                                                                body { margin: 0px; font-family: 'Century Gothic'; font-weight: 400; font-size: 16px;  min-height: 1000px;}/*  */
+.mradi_funds li a { font-size: 14px;}
+h1, h2 { font-family: 'Kirvy-regular'; }
+bold_header { font-weight: 600; font-weight: bold; }
+.mradi_header h1, h2, h3, h4, h5{ font-family: 'Kirvy-regular'; }
+#header { background: #fff; font-size: 18px; height:152px; line-height: 1.6em; text-align: center; padding: 10px; width:100%; box-sizing: border-box; border-bottom: 5px solid #ffe366; position:fixed; top:0px; margin:auto; z-index:100000; }
+#header-fixed {position:fixed; top:0px; margin:auto; z-index:100000; width:100%;} 
+#my-menus {background:#000; height:75px; opacity:0.8}
+
+.videoContainer{height:50%; background-color: #aba9ac; width:100%; clear: both; overflow: hidden; border-bottom: 2px solid #ccc;    }
+.videoContainerA{height:50%; background-color: #C8B25E; width:100%; clear: both; overflow: hidden; border-bottom: 2px solid #ccc;    }
+.videoContainerB{ height:100%; background-color: #aba9ac; width:100%; clear: both; overflow: hidden; border-bottom: 2px solid #ccc;    }
+.featured_campaign_holder {width: 100%; margin: 0 auto; background-color: #A5D5D5; padding-top: 10px;}
+.featured_campaign_holder_B {width: 100%; margin: 0 auto; background-color: #E2E5E5; padding-top: 10px;}
+.featured_campaign_holder_C {width: 100%; margin: 0 auto; background-color: #E2E5E5; padding-top: 0px;}
+.subscribe_container {width: 80%; clear: both; margin: 0 auto; margin-top: 40px; padding: 30px;}
+.temp_one_index_highlight { width: 100%; clear: both; height: 400px; background: url('../../media/img/77.jpg') repeat-y; padding: 20px; margin-top: 30px;}
+.temp_one_index_highlight p { font-size: 16px;  color: #000; }
+.temp_one_index_campaign_holder {background-color: #fff; float: left; margin: 10px; margin-right: 40px; margin-bottom: 10px; border: 1px solid #ccc; width: 280px; height: 380px;}
+.temp_one_index_campaign_holder_C{background-color: #fff; float: left; margin: 0px; margin-right: 0px; margin-bottom: 0px;/* border: 1px solid #C5C5BA;*/ width: 280px; }
+.temp_one_index_campaign_holder_D{background-color: #fff;  float: left;  margin-right: 0px; margin-bottom: 0px; border: 1px solid #C5C5BA; width: 280px; }
+.temp_one_index_campaign_holder_DD{background-color: #fff;  float: left;  margin-right: 0px; margin-bottom: 0px; border: 1px solid #C5C5BA; width: 280px; margin-left: 72px;}
+.temp_one_index_campaign_holder_E{background-color: #fff; float: left; margin: 10px; margin-right: 40px; margin-bottom: 0px; border: 1px solid #ccc; width: 320px; }
+.videoContainer video { min-width: 100%; min-height: 47%; }
+.videoContainerA video { width: 100%; max-height: 455px; }
+.center_highlight{ font-family: "Kirvy-Bold"; width: 80%; color: #028bd1; margin-top: 70px; text-align: center; }
+.feature_info {float: right; text-align: right; clear: both; width: 70%; background: none;  padding: 20px;  margin-top: 40px;}
+.login_holder { padding-top: 1px; padding-bottom: 1px; float: right; clear: both; font-size: 12px; height:1px; }
+.mradi_table tr { padding: 10px; }
+.mradi_forms { margin: 5px; }
+.mid_footer { margin: 40px 0; clear: both; margin-bottom: 0px; }
+.campaign_holder { float: left;  margin: 10px;  margin-bottom: 30px;  width: 240px;  height: 380px; box-shadow: 5px 5px 5px #E8E8E8; }
+.video_spacer{ margin-top: 20px; clear: both; }
+.becks {position:relative}
+
+#logo {
+ display: none; 
+}
+#logo-div
+{
+    background: url('../../media/img/logo.jpg') no-repeat ;
+}
+#logo.scroll {
+  display: inline-block;
+}
+
+#wleftcol{
+    float: left;
+    width: 250px;
+    padding:0px 2px 0px 2px;    
+height: 400px;
+	border-right-style: solid;    
+	border-left-style: solid; 
+	border-width: 1px;
+        }
+        
+#wleftcol #wmiddlecol #wrightcol p{
+	font-size: 8px;
+	/*font-family: Century Gothic;*/
+	
+}	
+
+
+#wleftcol #wmiddlecol #wrightcol h5{
+	font-size: 8px;
+	/*font-family: Kirvy;*/
+	font-style: bold;	
+}
+
+#wmiddlecol{
+    float: left;
+    width: 150px;    
+height: 400px;
+padding:0px 2px 0px 2px;
+}
+
+#wrightcol{
+    float: left;
+    width: 150px;
+    border-right-style: solid;    
+	border-left-style: solid;
+	border-width: 1px;
+	height: 400px;
+	margin:0 2 0 2;
+}
+  .box { 
+	  /*  border:1px solid #ccc;
+	    padding:5px;
+	    height:151px;
+	    width:195px*/
+	}
+	.overlay {  
+	    background:rgba(252, 228, 106, 0.8) !important;
+	    text-align:center !important;
+            vertical-align: middle !important;
+	    opacity:0 !important;
+            padding: 4px;
+            font-size: 20px;
+	    width:100% !important;height: 100% !important;
+	    -webkit-transition: all 0.3s ease-in-out !important;
+	    -moz-transition: all 0.3s ease-in-out !important;
+	    -o-transition: all 0.3s ease-in-out !important;
+	    -ms-transition: all 0.3s ease-in-out !important;
+	    transition: all 0.3s ease-in-out !important;
+	}
+	.box:hover a{
+	    /*border:1px solid #555 !important;
+	    border-radius:5px !important;*/
+            text-decoration:none !important;
+	}
+	.box:hover .overlay {
+	    opacity:1 !important;
+            text-decoration: none;
+            text-decoration:none !important;
+	}
+	.overlay {
+	    position:relative;
+	    top:0px;
+	}
+	.subscribe
+{
+    position:relative;
+    width: 90%;
+    margin: 0 auto;
+    top: 9px;
+    text-align: right;
+}
+.sub-span
+{
+    padding: 10px 10px 0px 10px;
+    background-color: #53A5D5;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: #ffffff;
+    font-weight: bold;
+}
+.subscribe-show{ 
+    display: none;
+    position: absolute;
+    width: 50%;
+    margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+}
+.subscribe:hover .subscribe-show{
+    display : block;
+    width: 50%;
+}
+   /*{
+   	border: 5px solid red;
+   }*/
+.contact_mradi{
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+padding: 5px 0px 0px 0px;
+border: 0px;
+vertical-align: middle;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+text-align: center;
+overflow: hidden;
+position: fixed;
+z-index: 16000002;
+width: 209px;
+height: 30px;
+right: 10px;
+bottom: 0px;
+background-color: #519FD0;
+color: white;
+font-weight: bolder;
+/*background: transparent;*/
+}                            
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            

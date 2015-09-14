@@ -1,0 +1,58 @@
+/*######################################*/
+/*Colors for the template */
+/*######################################*/
+
+
+
+a, a:hover {
+    color:#ffa10f;
+}
+
+.subscribe-submit, 
+.subscribe-submit:active, 
+.spinner > div, 
+#arrow_back {
+    background-color: #ffa10f;
+}
+
+#arrow:hover,
+#phone_icon,
+#mail_icon,
+#fb_icon:hover,
+#tw_icon:hover, 
+#in_icon:hover, 
+#g_icon:hover, 
+#pin_icon:hover, 
+#fli_icon:hover,
+#arrow_back:hover,
+#arrow:active,
+#arrow_back:active {
+    fill:#ffa10f;
+}
+
+#arrow {
+    fill:white;
+    background:black;
+}
+
+#fb_icon, 
+#tw_icon, 
+#in_icon, 
+#g_icon, 
+#pin_icon, 
+#fli_icon {
+    fill: #d8d7d7;
+}
+
+#arrow_back {
+    fill:white;
+}
+
+#arrow_back:hover {
+    background:white;
+}
+
+#preview {
+    background-color:#fffcd2;
+}
+
